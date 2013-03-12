@@ -7,3 +7,4 @@ At Ruby programming language
 - [problem4](http://projecteuler.net/problem=4) / [solved](problems/problem4.rb)
 - [problem5](http://projecteuler.net/problem=5) / [solved](problems/problem5.rb)
 - [problem6](http://projecteuler.net/problem=6) / [solved](problems/problem6.rb)
+- [problem7](http://projecteuler.net/problem=7) / [solved](problems/problem7.rb)
