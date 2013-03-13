@@ -11,3 +11,4 @@ At Ruby programming language
 - [problem008](http://projecteuler.net/problem=8) / [solved](problems/problem008.rb)
 - [problem009](http://projecteuler.net/problem=9) / [solved](problems/problem009.rb)
 - [problem010](http://projecteuler.net/problem=10) / [solved](problems/problem010.rb)
+- [problem011](http://projecteuler.net/problem=11) / [solved](problems/problem011.rb)
