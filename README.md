@@ -8,3 +8,4 @@ At Ruby programming language
 - [problem5](http://projecteuler.net/problem=5) / [solved](problems/problem5.rb)
 - [problem6](http://projecteuler.net/problem=6) / [solved](problems/problem6.rb)
 - [problem7](http://projecteuler.net/problem=7) / [solved](problems/problem7.rb)
+- [problem8](http://projecteuler.net/problem=8) / [solved](problems/problem8.rb)
